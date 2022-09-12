@@ -19,7 +19,6 @@ Olá, eu sou o Caio Ramos
 
 ## Meus contatos 
 
-- Instagram @caiowp
 - Github @Git-Caio-Ramos
 - Email contato: Ramoscaio821@gmail.com
 - LinkedIn https://www.linkedin.com/in/caio-ramos-b8bab2225/
