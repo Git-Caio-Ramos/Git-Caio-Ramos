@@ -1,7 +1,8 @@
 # Bem Vindo(a) ao meu perfil
 
 Olá, eu sou o Caio Ramos
-
+![git](https://user-images.githubusercontent.com/113386335/189753810-51063c32-b3ac-4f0a-ae38-ae7ad14a8b5c.jpg)
+Moro em São Paulo 
 ## Meus hobbies
 
 - Jogar videogame
